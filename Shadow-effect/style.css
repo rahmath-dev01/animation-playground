@@ -36,8 +36,7 @@ body{
   gap:10px;
   max-width: 300px;
   padding-inline: 10px;
-  padding-bottom: 10px;
-  
+  padding-bottom: 10px; 
   border-radius: 15px;
   background:
   linear-gradient(rgb(0, 0, 0)) padding-box,
@@ -59,6 +58,7 @@ body{
   color: rgb(255, 0, 123);
   text-shadow: 0 0 10px rgb(255, 0, 123);
 }
+
 
 
 
