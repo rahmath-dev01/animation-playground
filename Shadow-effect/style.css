@@ -60,6 +60,7 @@ body{
   color: rgb(255, 0, 123);
   text-shadow: 0 0 10px rgb(255, 0, 123);
   scale: 1.1 !important;
+  transition: all 0.3s linear;
 }
 /* box1 */
 
@@ -94,6 +95,7 @@ body{
   color: rgb(183, 0, 0);
   text-shadow: 0 0 10px rgb(183, 0, 0);
   scale: 1.1 !important;
+  transition: all 0.3s linear;
 }
 body:has(.boxs:hover) .boxs{
   scale: 0.8;
